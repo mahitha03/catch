@@ -1,0 +1,29 @@
+﻿{
+	"version": 1596449027,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/background_obj-sheet0.png",
+		"images/box_obj-sheet0.png",
+		"images/kobie_obj-sheet0.png",
+		"images/kobie_obj-sheet1.png",
+		"images/scoreboard_bg-sheet0.png",
+		"images/net_obj-sheet0.png",
+		"images/gameover_obj-sheet0.png",
+		"images/menu_bg-sheet0.png",
+		"images/button-sheet0.png",
+		"images/kobie_start-sheet0.png",
+		"images/kobie_start-sheet1.png",
+		"media/bounce2.ogg",
+		"media/click.ogg",
+		"media/music.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
